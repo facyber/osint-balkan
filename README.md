@@ -3,7 +3,7 @@ Javne informacije i sajtovi vezani za države Balkana koje se mogu koristiti u O
 
 # Državne institucije i portali
 
-- [Spisak državnih insittucija](https://www.beograd.rs/lat/kontakt/2587-drzavne-institucije---linkovi/)
+- [Spisak državnih insitucija](https://www.beograd.rs/lat/kontakt/2587-drzavne-institucije---linkovi/)
 - [Svi portali u Srbiji na jednom mestu](https://www.rsportali.com/)
 - [APR](https://www.apr.gov.rs)
 - [Portal otvorenih podataka](https://data.gov.rs/sr/)
