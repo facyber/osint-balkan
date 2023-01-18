@@ -12,6 +12,7 @@ Javne informacije i sajtovi vezani za države Balkana koje se mogu koristiti u O
 - [Nacionalana služba za zapošljavanje](https://www.nsz.gov.rs)
 - [Katastar](https://a3.geosrbija.rs/katastar)
 - [CERT](https://www.cert.rs/)
+- [Registar rizika od katastrofa](https://drr.geosrbija.rs/drr/home)
 
 # Javne informacije
 
