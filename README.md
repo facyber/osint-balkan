@@ -10,7 +10,8 @@ Javne informacije i sajtovi vezani za države Balkana koje se mogu koristiti u O
 - [eUprava](https://euprava.gov.rs/)
 - [eZdravlje](https://www.e-zdravlje.gov.rs)
 - [Nacionalana služba za zapošljavanje](https://www.nsz.gov.rs)
-- [Katastar](https://a3.geosrbija.rs/katastar)
+- [Geosrbija katastar](https://a3.geosrbija.rs/katastar)
+- [Katastar nepokretnosti](https://katastar.rgz.gov.rs/eKatastarPublic/PublicAccess.aspx)
 - [CERT](https://www.cert.rs/)
 - [Registar rizika od katastrofa](https://drr.geosrbija.rs/drr/home)
 
@@ -21,6 +22,8 @@ Javne informacije i sajtovi vezani za države Balkana koje se mogu koristiti u O
 - [Registarske oznake](https://sr.wikipedia.org/sr-el/Registarske_oznake_u_Srbiji)
 - [Poštanski brojevi](https://www.381info.com/postanski-brojevi)
 - [Pozivni brojevi](https://sr.wikipedia.org/sr-el/Spisak_pozivnih_brojeva_u_Srbiji)
+- [RNIDS WHOIS servis](https://www.rnids.rs/lat/domeni/podaci-o-registrovanom-domenu)
+- [CompanyWall Business](https://www.companywall.rs)
 
 # Javne kamere
 
