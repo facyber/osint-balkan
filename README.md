@@ -14,6 +14,7 @@ Javne informacije i sajtovi vezani za države Balkana koje se mogu koristiti u O
 - [Katastar nepokretnosti](https://katastar.rgz.gov.rs/eKatastarPublic/PublicAccess.aspx)
 - [CERT](https://www.cert.rs/)
 - [Registar rizika od katastrofa](https://drr.geosrbija.rs/drr/home)
+- [WiFi pristupne tačke u Srbiji, RATEL](https://eki.ratel.rs/smartPortal/RatelWiFiLokacije)
 
 # Javne informacije
 
@@ -24,6 +25,7 @@ Javne informacije i sajtovi vezani za države Balkana koje se mogu koristiti u O
 - [Pozivni brojevi](https://sr.wikipedia.org/sr-el/Spisak_pozivnih_brojeva_u_Srbiji)
 - [RNIDS WHOIS servis](https://www.rnids.rs/lat/domeni/podaci-o-registrovanom-domenu)
 - [CompanyWall Business](https://www.companywall.rs)
+- [Topografske karte](https://www.topografskakarta.com)
 
 # Javne kamere
 
